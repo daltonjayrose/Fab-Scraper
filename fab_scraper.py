@@ -10,8 +10,8 @@ import datetime
 
 # FAB Profile Config
 # 2 = Heejin, 3 = Hyunjin, 4 = HaSeul, 5 = YeoJin, 6 = ViVi, 
-7 = Kim Lip, 8 = JinSoul, 9 = Choerry, 
-10 = Yves, 11 = Chuu, 12 = Go Won, 13 = Olivia Hye
+#7 = Kim Lip, 8 = JinSoul, 9 = Choerry, 
+#10 = Yves, 11 = Chuu, 12 = Go Won, 13 = Olivia Hye
 
 fab_profile_id = "13"
 fab_profile_url = "https://vip-fab-api.myfab.tv/fapi/2/artists/" + fab_profile_id + "/messages"
