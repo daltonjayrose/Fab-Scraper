@@ -1,4 +1,5 @@
 # Fab-Scraper
+You can view the final result [here](http://loonafabarchive.com).
 
 In 2022, the members of the South Korean girl group [LOONA](https://en.wikipedia.org/wiki/Loona) joined the messaging service [Fab](https://play.google.com/store/apps/details?id=com.neowizlab.fab&hl=en_US&gl=US) to communicate with their fans. While Fab had a feature to translate their messages from Korean to English, the translations were subpar as they utilized free or cheap translation services for the translations. Therefore, I wanted to develop a way to archive the messages LOONA posted to the service and provide better translations.
 
